@@ -1,4 +1,4 @@
-# Computer-Interfacing-Project
+# HomeSense 360 Project
 
 A smart home system is designed to make the life of the owner easier and more peaceful. In our
 smart home system, we incorporated intruder alarms, water level detection, water quality
